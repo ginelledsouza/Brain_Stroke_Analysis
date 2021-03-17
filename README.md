@@ -8,7 +8,7 @@ This repository aims at building a predictive model that helps in identifying wh
 The highlights of this repository are as follows:
 - Dataset imbalance dealt with the help of resampling technique of "Upscaling"
 - 5 algorithms are used for the prediction - Random Forest, Decision Tree, Logistic Regression, K-Nearest Neighbour, and Support Vector Classifier
-- There are 2 best performing models as a result of the Random Forest and Decision Tree algorithm with 99.35% and 98.19% respectively
+- There are 2 best performing models as a result of the Random Forest and Decision Tree algorithm with 99.35% and 98.19% accuracy respectively
 - False-positive rate for Random Forest proves to be much better than the rest of the algorithms
 
 This dataset can be found on [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
