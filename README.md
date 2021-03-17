@@ -1,8 +1,14 @@
 # Brain Stroke Analysis
-A Brain Stroke is a condition when the supply of blood to a portion of the brain is interrupted. This prevents the brain tissues from getting 
-oxygen and nutrients. The brain cells thus begin to die. It is critical and needs to be given immediate treatment. Brain stroke causes several
-symptoms such as trouble walking, speaking, and understanding, as well as paralysis or numbness of the face, arm, or leg. According to the 
-World Health Organization (W.H.O), about 15 million people suffer stroke worldwide yearly. Out of these 15 million, about 5 million die, and 
-5 million are permanently paralyzed. High blood pressure is our mortal enemy who is contributing to more than 12.7 million strokes worldwide.
 
-This notebook aims at building a predictive model that helps in identifying whether a patient is likely to suffer from a brain stroke.
+A Brain Stroke is a condition when the supply of blood to a portion of the brain is interrupted. The brain cells thus begin to die. It is critical and needs to be given immediate treatment. Brain stroke causes several
+symptoms such as trouble walking, speaking, and understanding, as well as paralysis or numbness of the face, arm, or leg. According to the 
+World Health Organization (W.H.O), about 15 million people suffer stroke worldwide yearly. 
+
+This repository aims at building a predictive model that helps in identifying whether a patient is likely to suffer from a brain stroke. 
+The highlights of this repository are as follows:
+- Dataset imbalance dealt with the help of resampling technique of "Upscaling"
+- 5 algorithms are used for the prediction - Random Forest, Decision Tree, Logistic Regression, K-Nearest Neighbour, and Support Vector Classifier
+- There are 2 best performing models as a result of the Random Forest and Decision Tree algorithm with 99.35% and 98.19% respectively
+- False-positive rate for Random Forest proves to be much better than the rest of the algorithms
+
+This dataset can be found on [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
