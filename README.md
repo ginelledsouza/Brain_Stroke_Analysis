@@ -11,4 +11,6 @@ The highlights of this repository are as follows:
 - There are 2 best performing models as a result of the Random Forest and Decision Tree algorithm with 99.35% and 98.19% accuracy respectively
 - False-positive rate for Random Forest proves to be much better than the rest of the algorithms
 
-This dataset can be found on [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
+
+<b>Note</b>: The Dataset for this project has been attached to this repository as well as the current version can be found on [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
+
